@@ -20,5 +20,5 @@
 
 ## Social Media
   <a href="https://www.linkedin.com/in/luis-fernando-esculapio-a620681b9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/luisescx/luisescx/master/assets/linkedin-logo.svg" width="21px"  alt="LinkedIn" align="left" />
+    <img src="https://raw.githubusercontent.com/luisescx/luisescx/master/assets/linkedin-logo.svg" height="30px" width="40px"  alt="LinkedInLogo" align="left" />
 </a>
