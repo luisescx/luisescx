@@ -1,8 +1,6 @@
 # Hi there 👋
 
  I’m Luis, I’m interested in programming and video games. I'm passionate about technology. 
- 
- 📱 Mobile developer at SpartaLabs
 
 ## Technologies
 <div style="display: inline_block">
